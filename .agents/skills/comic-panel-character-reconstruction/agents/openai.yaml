@@ -1,0 +1,4 @@
+interface:
+  display_name: "Comic Panel Character Reconstruction"
+  short_description: "Merge adjacent comic panels into one faithful character."
+  default_prompt: "Use $comic-panel-character-reconstruction to reconstruct the complete character from these adjacent comic panels."

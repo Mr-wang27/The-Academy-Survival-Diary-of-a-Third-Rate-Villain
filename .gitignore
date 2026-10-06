@@ -1,0 +1,10 @@
+# Only these project paths are versioned.
+/*
+!/.gitignore
+!/.gitattributes
+!/.vscode/
+!/__pycache__/
+!/output/
+!/.agents/
+!/.venv/
+!/skills-lock.json

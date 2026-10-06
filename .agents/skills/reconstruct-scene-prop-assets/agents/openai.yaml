@@ -1,0 +1,4 @@
+interface:
+  display_name: "漫画场景与道具资源重建"
+  short_description: "核验漫画参考，保守补全场景和道具，生成一致的多视角资源"
+  default_prompt: "使用 $reconstruct-scene-prop-assets，核验我提供的场景或道具参考，记录推定补全，生成所需设定图并检查结构与画风一致性。"

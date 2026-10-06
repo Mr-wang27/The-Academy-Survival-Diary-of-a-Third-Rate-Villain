@@ -1,0 +1,4 @@
+interface:
+  display_name: "漫画角色三视图与头像还原"
+  short_description: "锁定漫画角色已有设计，按整体氛围补全缺失细节，生成完整三视图与头像"
+  default_prompt: "使用 $reconstruct-character-assets，核验我提供的角色参考，严格保留已有设计；资料不足处按角色整体氛围保守补全，再调用 ImageGen 生成完整三视图与正面头像，记录补全依据并检查跨图一致性。"

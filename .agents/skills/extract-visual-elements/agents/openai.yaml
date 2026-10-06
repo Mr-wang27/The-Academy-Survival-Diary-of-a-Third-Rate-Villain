@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Element Archive"
+  short_description: "Extract character and scene elements into a reusable archive"
+  default_prompt: "Use $extract-visual-elements to extract visual elements from these references and save an archive under output."
